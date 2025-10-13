@@ -1,0 +1,26 @@
+# OS and editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary or cache files
+*.tmp
+*.bak
+*.log
+*.cache
+cache/
+temp/
+exports/
+
+# Audio renders (if you export from DAWs)
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# DAW-specific folders (optional)
+Ableton/
+Logic/
+FL_Studio/
+Cubase/
+StudioOne/
